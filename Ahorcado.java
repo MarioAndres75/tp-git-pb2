@@ -1,5 +1,6 @@
 package tp1;
 // modificacion numero uno
+// modificacion desde Eclipse
 import java.util.Scanner;
 public class Ahorcado {
  public static void main(String[] args) {
